@@ -1,0 +1,23 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "no desc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaderamrichat/sandbox.git"
+  },
+  "keywords": [
+    "sandbox",
+    "test"
+  ],
+  "author": "Me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaderamrichat/sandbox/issues"
+  },
+  "homepage": "https://github.com/kaderamrichat/sandbox#readme"
+}
